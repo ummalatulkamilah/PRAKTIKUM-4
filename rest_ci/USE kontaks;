@@ -1,0 +1,5 @@
+USE kontaks;
+INSERT INTO `telepon` (`id`, `nama`, `nomor`) VALUES
+(1, 'Orion', '08576666762'),
+(2, 'Mars', '08576666770'),
+(7, 'Alpha', '08576666765');
